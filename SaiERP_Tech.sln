@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.Infra.Data", "Lib.Infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain_Model", "Domain_Model", "{1DDDD269-BAD3-41B4-B1CB-6762665F9D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Domain.Object", "Lib.Domain.Object\Lib.Domain.Object.csproj", "{8B9D037E-2F0A-4836-9209-C442E25FE6A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.Domain.Object", "Lib.Domain.Object\Lib.Domain.Object.csproj", "{8B9D037E-2F0A-4836-9209-C442E25FE6A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
